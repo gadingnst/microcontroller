@@ -1,3 +1,4 @@
+// inisialisasi library LiquidCrystal dan pin LCD
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(9, 8, 4, 5, 6, 7);
 
